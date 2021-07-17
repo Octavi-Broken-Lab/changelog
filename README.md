@@ -1,45 +1,39 @@
-OctaviOS  v2.6 Changelog
+Changelog:
+# 2.7
+- Merged July Security patch (r39)
+- Updated Gapps to newest
+- Fixed an issue in calling with both aosp dialer and Googler dialer in different devices 
+- Fixed an issue Bluetooth in some devices
+- Added OOS Volume plugin
+- Added P404 Volume plugin
+- Added Shapeshift OS Volume plugin
+- Fixed Wifi display / Cast with old legacy devices (Source side)
+- Fixed Battery page text getting cut in low DPI
+- Fixed an issue where the toolbar gets white in Octavi clear theme
+- Fix the crash when you try to change keyboard
+- Fix the issue Settings FC sometimes randomly due to overlay 
+- Fixed the crash that occurs when you open running services in Developer options
+- Fixed the misalignments in setting texts 
 
-Dated : 23/06/2021
+` (Note: There are few misalignments still there. We are finding a way to fix that but they are dynamic and we can't find a way to track them because others like them from same category follows our implementation)`
 
--  Merged June Security patch
--  Nukes all icons and iconspaces to make the UI consistent (Thnx to DOT for implementation idea)
--  Added Collapsing toolbar from DOT OS
--  Made sound seekbar same as brightness slider
--  Adapted OctaviLab with New Toolbar
--  Added categories in various parts of Settings
--  Fix an issue where the wellbeing card text gets cut in lower dpi
--  Introduced About Team page
--  New dialer UI from nezuko
--  Added Swipe To Call Feature on AOSP Dialer
--  Added new app icons from posp
--  Added Runtime Audio Panel Location Toggle
--  Reverted to AOSP Volume Panel Style
--  Added MIUI Compact Volume Panel Plugin 
--  Added Swap Volume Buttons Options
--  Reverted Old PowerMenu Customizations
--  Added New Powermenu Advanced Toggle
--  Added PowerMenu Background Opacity Option 
--  Added Option for Ambient Instead of Lockscreen on Wake Gestures
--  Added Extended "L" Back swipe to trigger action/app/activities
--  Improved RGB Accenter Code [3.0]
--  Added Option to Show and Edit Ambient Icons on Lockscreen
--  Added Lockscreen Clock Widget Fonts
--  Added Lockscreen Date Fonts
--  LS OwnerInfo Font & Size Option
--  Added Lockscreen Clock/Date Styles
--  Added Q Style Text Clock
--  Added Sammy,Analog,Q Beta Pill, Bootleg Date, X Clock Styles
--  Added Translations for TextClock
--  Added Option to Disable Led after Full Charging
--  Make Quick Unlock Compaitable for Pin/Password
--  Added Option for Power button predd fp unlock toggle 
--  Added Octavi-Ambient Doze Options
--  Added Ambient Customizations
--  Moved permission dialog box to bottom
+- Fix an overlay issue in app info where the toolbar gets overlapped 
+- Fix the Google card getting cut at bottom of the settings homepage
+- Fixed battery percentage not showing inside or outside with toggle
+- Fixed the charging animation not showing on lockscreen
+- Fixed some icons getting black on lockscreen 
+- Added preference for maximum screen refresh rate
+- Added S style clock
+- Added A12 DP3 clock
+- Fixed a few logspam for better bug report
+- Fixed Lockscreen showing Dual charging info 
 
-For more you can check our Github Here (https://www.github.com/Octavi-OS)
+` Now let's talk about Dialer UI, The whole UI is inspired from OOS. The following are the changes `
+- Added empty page illustration from OOS
+- Re-designed Incall UI layout like OOS
+- Added OOS like BG alpha animation when call is picked
+- Added OOS in call icons
+- Re-designed Incoming call screen
+- Revamped swipe options to "Swipe right to delete" & "Swipe left to Text" 
 
-If you like our work you can donate us at
-Paypal :- Here (https://paypal.me/sagarrokade982) 
-UPI :- octavios@kotak
+` For making this Dialer open source on github it will be publically available after August patch release. We still need to complete it with some small but nice stuff... And we are trying to do it. `
