@@ -1,88 +1,5 @@
-OctaviOS  v2.6 Changelog
 
-Dated : 23/06/2021
-
--  Merged June Security patch
--  Nukes all icons and iconspaces to make the UI consistent (Thnx to DOT for implementation idea)
--  Added Collapsing toolbar from DOT OS
--  Made sound seekbar same as brightness slider
--  Adapted OctaviLab with New Toolbar
--  Added categories in various parts of Settings
--  Fix an issue where the wellbeing card text gets cut in lower dpi
--  Introduced About Team page
--  New dialer UI from nezuko
--  Added Swipe To Call Feature on AOSP Dialer
--  Added new app icons from posp
--  Added Runtime Audio Panel Location Toggle
--  Reverted to AOSP Volume Panel Style
--  Added MIUI Compact Volume Panel Plugin 
--  Added Swap Volume Buttons Options
--  Reverted Old PowerMenu Customizations
--  Added New Powermenu Advanced Toggle
--  Added PowerMenu Background Opacity Option 
--  Added Option for Ambient Instead of Lockscreen on Wake Gestures
--  Added Extended "L" Back swipe to trigger action/app/activities
--  Improved RGB Accenter Code [3.0]
--  Added Option to Show and Edit Ambient Icons on Lockscreen
--  Added Lockscreen Clock Widget Fonts
--  Added Lockscreen Date Fonts
--  LS OwnerInfo Font & Size Option
--  Added Lockscreen Clock/Date Styles
--  Added Q Style Text Clock
--  Added Sammy,Analog,Q Beta Pill, Bootleg Date, X Clock Styles
--  Added Translations for TextClock
--  Added Option to Disable Led after Full Charging
--  Make Quick Unlock Compaitable for Pin/Password
--  Added Option for Power button predd fp unlock toggle 
--  Added Octavi-Ambient Doze Options
--  Added Ambient Customizations
--  Moved permission dialog box to bottom
-
-For more you can check our Github Here (https://www.github.com/Octavi-OS)
-
-If you like our work you can donate us at
-Paypal :- Here (https://paypal.me/sagarrokade982) 
-UPI :- octavios@kotak
-Changelog:
-# 2.8
-- Merged r40 August Security Patch
-- Changed Lockscreen Font to Default
-- Added custom font support to third party apps
-- Introduced LiveDisplay
-- Added LiveDisplay Tile
-- Added ReadingMode Tile
-- Added AntiFlicker Tile
-- Added FaceUnlock Changing Method when Locked
-- Added Legacy WFD Output video mode Settings
-- Added Octavi-OS Logo in Statusbar
-- Added FOD Animations
-- Added Custom Fingerprint Icon Option
-- Added Flipendo to Battery Saver QS Tile
-- Improvements in ShapeShift VolumePanel
-- Renamed OOS volume panel to Nezuko panel (coz they made this one)
-- Fixed the Scrolling issues in Running services page
-- Fixed the Buggy Virtual keyboard UI
-- Fixed the overlap issue in footer for RTL languages
-- Fixed About phone page scrolling issues for small screen size devices like Sanders
-- Fixed About phone camera info text cutting when 4 or more camera infos are present
-- Fixed the battery page text getting cut
-- Fixed the Dialer app crashing while swapping sim
-- Improvements to re-ticker crash on notification pop up
-- Fixed the QS music area getting blank with Re-ticker on (Probably)
-- Fixed media card in qs not behaving well with G-Visual mode
-- Fixed dialer toolbar and switches issues in light theme
-- Added Dark mode support in Contacts app
-- Fixed an issues where in lower DPI Hello,User gets out of screen while toolbar is in Collapsing mode. Re wrote the collapsing logic
-- Changed default wall
-
-Redesigned stuff :
-- Redesigned Lab UI to more minimal and clean look
-- Redesigned Dialer speed dial cards to match OOS UI
-
-Note : As we said Dialer will be open-sourced now but seeing the community using patched apk much instead of stopping the chain of spreading. It's decided that only In-call UI and fixes will be OSS. Speed dial UI will be octavi only thing
-***
-Changelog:
-# 2.7
+# Changelog: 2.7
 - Merged July Security patch (r39)
 - Updated Gapps to newest
 - Fixed an issue in calling with both aosp dialer and Googler dialer in different devices 
@@ -120,9 +37,10 @@ Changelog:
 - Revamped swipe options to "Swipe right to delete" & "Swipe left to Text" 
 
 ` For making this Dialer open source on github it will be publically available after August patch release. We still need to complete it with some small but nice stuff... And we are trying to do it. `
-***
-Changelog:
-# 2.6
+
+
+
+# Changelog: 2.6
 
 Dated : 23/06/2021
 
@@ -162,9 +80,9 @@ Dated : 23/06/2021
 -  Added Ambient Customizations
 -  Moved permission dialog box to bottom
 
-***
-Changelog:
-# 2.5
+
+
+# Changelog: 2.5
 
 - Fixed Crash on changing toggles values from Settings
 - Fixed crashes got introduced in 2.4
@@ -203,9 +121,8 @@ Changes in OctaviLauncher :
 
 Note : There are no UI changes because from yesterday's Poll people chose and supported us to move to minimal UI. And all the UI changes will be there in future updates.`
 
-***
-Changelog:
-# 2.4
+
+# Changelog: 2.4
 
 Dated : 07/05/2021
 
@@ -237,9 +154,8 @@ Dated : 07/05/2021
 
 
 Note : Octavi clock from last release and Octavi Lab from this release are publically available for unofficial builds.
-***
-Changelog:
-# 2.3
+
+# Changelog: 2.3
 
 Dated : 24/04/2021
 
@@ -277,9 +193,8 @@ Source Changes:-
 - Improved Vanilla Clock app to match Google clock UI
 - Rebased Launcher3 From ShapeshiftOS 
 - Added some translations in octavi lab
-***
-Changelog:
-# 2.2
+
+# Changelog: 2.2
 
 - April Patch
 - A hell lot of Translations (Thanx to those who contributed)
@@ -298,9 +213,8 @@ Changelog:
 - Disabled Fullscreen keyboard in landscape mode (It was annoying)
 - Removed some annoying warning / Confirmation dialog boxes
 - A bit of more optimization that doesn't matter to add in changelog but gonna improve the user experience while using the ROM itself
-***
-Changelog:
-# 2.1
+
+# Changelog: 2.1
 
 OctaviOS  v2.1 Changelog:-
 
@@ -334,9 +248,8 @@ Source Changes:-
 - Reverted Use App Icon instead of md2 icon on statusbar
 - Added InCall Vibration Options
 
-***
-Changelog:
-# 2.0
+
+# Changelog: 2.0
 OctaviOS  v2.0 Changelog:-
 
 Dated : 14/02/2021
