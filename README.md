@@ -1,5 +1,5 @@
-
-<h1> Changelog: 2.7 </h1>
+-------------
+# Changelog: 2.7
 - Merged July Security patch (r39)
 - Updated Gapps to newest
 - Fixed an issue in calling with both aosp dialer and Googler dialer in different devices 
@@ -38,7 +38,7 @@
 
 ` For making this Dialer open source on github it will be publically available after August patch release. We still need to complete it with some small but nice stuff... And we are trying to do it. `
 
-
+-------------
 
 # Changelog: 2.6
 
