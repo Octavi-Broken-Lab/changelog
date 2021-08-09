@@ -1,4 +1,4 @@
--------------
+#
 # Changelog: 2.7
 - Merged July Security patch (r39)
 - Updated Gapps to newest
@@ -37,9 +37,11 @@
 - Revamped swipe options to "Swipe right to delete" & "Swipe left to Text" 
 
 ` For making this Dialer open source on github it will be publically available after August patch release. We still need to complete it with some small but nice stuff... And we are trying to do it. `
-
+#
+#
 -------------
-
+#
+#
 # Changelog: 2.6
 
 Dated : 23/06/2021
@@ -81,7 +83,11 @@ Dated : 23/06/2021
 -  Moved permission dialog box to bottom
 
 
-
+#
+#
+-------------
+#
+#
 # Changelog: 2.5
 
 - Fixed Crash on changing toggles values from Settings
@@ -121,7 +127,11 @@ Changes in OctaviLauncher :
 
 Note : There are no UI changes because from yesterday's Poll people chose and supported us to move to minimal UI. And all the UI changes will be there in future updates.`
 
-
+#
+#
+-------------
+#
+#
 # Changelog: 2.4
 
 Dated : 07/05/2021
@@ -154,7 +164,11 @@ Dated : 07/05/2021
 
 
 Note : Octavi clock from last release and Octavi Lab from this release are publically available for unofficial builds.
-
+#
+#
+-------------
+#
+#
 # Changelog: 2.3
 
 Dated : 24/04/2021
@@ -193,7 +207,11 @@ Source Changes:-
 - Improved Vanilla Clock app to match Google clock UI
 - Rebased Launcher3 From ShapeshiftOS 
 - Added some translations in octavi lab
-
+#
+#
+-------------
+#
+#
 # Changelog: 2.2
 
 - April Patch
@@ -213,7 +231,11 @@ Source Changes:-
 - Disabled Fullscreen keyboard in landscape mode (It was annoying)
 - Removed some annoying warning / Confirmation dialog boxes
 - A bit of more optimization that doesn't matter to add in changelog but gonna improve the user experience while using the ROM itself
-
+#
+#
+-------------
+#
+#
 # Changelog: 2.1
 
 OctaviOS  v2.1 Changelog:-
@@ -247,7 +269,11 @@ Source Changes:-
 - Added Long Press Header clock to access Clock App
 - Reverted Use App Icon instead of md2 icon on statusbar
 - Added InCall Vibration Options
-
+#
+#
+-------------
+#
+#
 
 # Changelog: 2.0
 OctaviOS  v2.0 Changelog:-
