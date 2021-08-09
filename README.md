@@ -1,5 +1,5 @@
 
-# Changelog: 2.7
+<h1> Changelog: 2.7 </h1>
 - Merged July Security patch (r39)
 - Updated Gapps to newest
 - Fixed an issue in calling with both aosp dialer and Googler dialer in different devices 
