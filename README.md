@@ -1,3 +1,52 @@
+# Changelog:2.8
+
+* Merged r40 August Security Patch
+* Changed Lockscreen Font to Default
+* Added custom font support to third party apps
+* Introduced LiveDisplay
+* Added LiveDisplay Tile
+* Added ReadingMode Tile
+* Added AntiFlicker Tile
+* Added FaceUnlock Changing Method when Locked
+* Added Legacy WFD Output video mode Settings
+* Added Octavi*OS Logo in Statusbar
+* Added FOD Animations
+* Added Custom Fingerprint Icon Option
+* Added Flipendo to Battery Saver QS Tile
+* Improvements in ShapeShift VolumePanel
+* Renamed OOS volume panel to Nezuko panel (coz they made this one)
+* Fixed the Scrolling issues in Running services page
+* Fixed the Buggy Virtual keyboard UI
+* Fixed the overlap issue in footer for RTL languages
+* Fixed About phone page scrolling issues for small screen size devices like Sanders
+* Fixed About phone camera info text cutting when 4 or more camera infos are present
+* Fixed the battery page text getting cut
+* Fixed the Dialer app crashing while swapping sim
+* Improvements to re*ticker crash on notification pop up
+* Fixed the QS music area getting blank with Re*ticker on (Probably)
+* Fixed media card in qs not behaving well with G*Visual mode
+* Fixed dialer toolbar and switches issues in light theme
+* Added Dark mode support in Contacts app
+* Fixed an issues where in lower DPI Hello,User gets out of screen while toolbar is in Collapsing mode. Re wrote the collapsing logic
+* Changed default wall
+
+Redesigned stuff :
+* Redesigned Lab UI to more minimal and clean look
+* Redesigned Dialer speed dial cards to match OOS UI
+
+`Note : As we said Dialer will be open-sourced now but seeing the community using patched apk much instead of stopping the chain of spreading. It's decided that only In-call UI and fixes will be OSS. Speed dial UI will be octavi only thing`
+
+
+
+---
+
+---
+
+---
+
+---
+
+
 
 # Changelog: 2.7
 * Merged July Security patch (r39)
