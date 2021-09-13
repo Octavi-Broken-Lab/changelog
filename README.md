@@ -1,3 +1,79 @@
+# As we said with 2.9 release we are fully OpenSourced now. And because this is last feature / UI update everything is fixed that can be done. Updates will be there but only with security patches now. See ya in Android S ;)
+
+
+
+
+---
+
+---
+
+---
+
+---
+
+
+
+
+# Changelog for 2.9
+
+New Things added
+- Merged r43 September security patch
+- Added Statusbar beighness control gesture
+- Added notch city from POSP (3 mode cutout handler)
+- Added Media notification background for QS media player
+- Added Cloudflare DNS as a private DNS provider
+- Added a network permission group for Internet
+- Added a special runtime permission for sensors
+- Added seekbar or Statusbar padding (no more icon cropping)
+- Added an option to record longer in Screenrecord (can record upto 15GB now)
+- Added hotspot clients feature
+- Added Memory view in Recents panel
+- Added Kill app button in Recents panel
+
+Fixes done with this update:
+- Fixed CTS with September patch
+- Improved AppLock
+- Fixed the pattern issue with collapsing toolbar
+- Removed OTA notification coz spamming as hell 
+- Fix clock icon in few icon packs
+- Fixed Theming options getting reset to default on reboot
+- Improved FPS counter 
+- Fixed Expection errors with Android S clocks
+- Fixed Null pointer error in Volume Plugins
+- Improved Android S clock
+- Made animations a bit humane 
+- Fixed touch area in Volume panel for caption and ringer button while in landscape mode
+- Fixed FOD position if cutout is hidden
+- Fixed search bar background appearance in toolbar in Octavi Dialer
+- Fixed Call history crash in Octavi Dialer
+- Fixed a crash when u tap on Manage conference in Octavi Dialer
+- Fixed the inconsistent indents among preferences in Settings 
+- Fixed the name being small in Settings homepage header
+
+Redesigned stuff
+- Redesigned Dark mode page in settings
+- Redesigned AOSP Clock app
+
+There might be some other changes I forgot to add. 
+
+Note for Unofficial builder: 
+`Before starting the build make sure to add your device data in settings . Take a look at https://github.com/Octavi-OS/Bringup/blob/11/Bringup.mkdn`
+
+
+
+
+
+---
+
+---
+
+---
+
+---
+
+
+
+
 # Changelog:2.8
 
 * Merged r40 August Security Patch
