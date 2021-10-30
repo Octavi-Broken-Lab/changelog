@@ -1,6 +1,45 @@
-# As we said with 2.9 release we are fully OpenSourced now. And because this is last feature / UI update everything is fixed that can be done. Updates will be there but only with security patches now. See ya in Android S ;)
+# Changelog 3.0
+
+* Welcome Android 12 (Initial release)
+* Added Monet implementation from ProtonAOSP
+* Redesigned Settings Homepage
+* Added a user card on homepage
+* Introduced Greeter (Insulter basically xD)
+* Enabled 2 Button navigation bar
+* Added 3 finger Screenshot
+* Introduced PixelPropUtils 
+* Enabled Themed icons 
+* Added overlays so Google apps are following monet too (Update Google apps from play store after flash)
+* Reduced screenshot dismiss delay time
+* Enabled one hand mode by default (Swipe on navbar)
+* Added min and Max refrest rate options
+* Added Double tap 2 sleep in Octavi Launcher
+* Enabled Mic and Camera toggle tiles
+* Enabled A12 beta features (Ripple on charge and unlock)
+* Added overlays to make Power menu more consistent with UI
+* Something else that I might forgot
+
+Note: Features will be added from next release with Octavi Lab addon. Till then no spam for it.
 
 
+---
+
+---
+
+---
+
+---
+
+
+# Changelog for 2.9.1
+
+* Merged October Security patch (r48)
+* Fixed QS rows value stuck at default isssue
+* Fixed icons overlapping in "Manage available keyboards" section
+* Removed the media art blurred filter in QS 
+* Fixed settings indent issue for color pickers
+* Made greetings qoutes a bit nicer
+* Misc changes that doesn't make sense adding here
 
 
 ---
