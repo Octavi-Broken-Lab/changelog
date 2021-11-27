@@ -1,3 +1,79 @@
+# Changelog 3.1
+
+Miscellaneous changes:
+- Enable Smart battery
+- Allow disable of Screenshot sound
+- Enable 3 modes in Location QS tile
+- Redesigned Settings UI to A11 look alike
+
+Fixes that are done:
+- Fix various required permission to default apps for better experience
+- Fix battery stats getting resetted on reboot
+- Various Lockscreen bottom shortcut fixes
+- Fixed some issues to SystemUI tuner
+- Fixed Lockscreen charging issues
+- Fixed ripple animations on side mounted FP devices
+
+Newly added things:
+- Added Lawnchair as default launcher
+- Added Increasing ring feature
+- Added Octavi Lab
+- Added Reset battery stats button
+- Added Caffeine tile
+- Added AOD tile
+- Added USB tether tile
+- Added Sync tile
+- Added Sound tile
+- Added Screenshot tile
+- Added heads-up tile
+- Added Data switch tile
+- Added haptic feedback to QS tiles
+- Added animations on QS tiles
+- Added Interpolators to QS tiles
+- Added advance power menu toggle
+- Added Double tap 2 sleep on statusbar
+- Added Double tap 2 sleep on lockscreen
+- Added long press power to toggle torch
+- Added volume rocker wake
+- Added volume key music control
+- Added option to orient volume buttons in landscape
+- Added option to hide power menu on secured lockscreen
+- Added Heads-up customisations
+- Added less boring heads-up
+- Added Smart QS pull 
+- Added Statusbar clock/date customisations
+- Added toggle to enable/disable running services in QS
+- Added toggle for wake on plug
+- Added Incall vibrations
+- Added Traffic Indicator
+- Added Hardware key customisation support
+- Added Notification light customisations
+- Added lockscreen visualiser
+- Added brightness slider customisations
+- Added battery bar 
+- Added Carrier label customisations
+- Added navigation Gestures customisation
+- Added Double tap to wake on Doze
+- Added battery light customisations
+- Added navbar customisations
+- Add Dash/Warp/VOOC/SuperDart charging support
+- Added battery styles customisations
+- Added smartspace
+- Forward port CM settings
+
+Note : There are much more changes than these are we don't remember so... Good luck finding them
+
+
+---
+
+---
+
+---
+
+---
+
+
+
 # Changelog 3.0
 
 * Welcome Android 12 (Initial release)
