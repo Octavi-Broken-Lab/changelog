@@ -127,8 +127,6 @@ Note: Features will be added from next release with Octavi Lab addon. Till then 
 ---
 
 
-
-
 # Changelog for 2.9
 
 New Things added
@@ -175,9 +173,6 @@ Note for Unofficial builder:
 `Before starting the build make sure to add your device data in settings . Take a look at https://github.com/Octavi-OS/Bringup/blob/11/Bringup.mkdn`
 
 
-
-
-
 ---
 
 ---
@@ -185,8 +180,6 @@ Note for Unofficial builder:
 ---
 
 ---
-
-
 
 
 # Changelog:2.8
@@ -228,7 +221,6 @@ Redesigned stuff :
 `Note : As we said Dialer will be open-sourced now but seeing the community using patched apk much instead of stopping the chain of spreading. It's decided that only In-call UI and fixes will be OSS. Speed dial UI will be octavi only thing`
 
 
-
 ---
 
 ---
@@ -236,7 +228,6 @@ Redesigned stuff :
 ---
 
 ---
-
 
 
 # Changelog: 2.7
@@ -279,8 +270,6 @@ Redesigned stuff :
 ` For making this Dialer open source on github it will be publically available after August patch release. We still need to complete it with some small but nice stuff... And we are trying to do it. `
 
 
-
-
 ---
 
 ---
@@ -288,7 +277,6 @@ Redesigned stuff :
 ---
 
 ---
-
 
 
 # Changelog: 2.6
@@ -332,10 +320,6 @@ Dated : 23/06/2021
 *  Moved permission dialog box to bottom
 
 
-
-
-
-
 ---
 
 ---
@@ -343,10 +327,6 @@ Dated : 23/06/2021
 ---
 
 ---
-
-
-
-
 
 
 # Changelog: 2.5
@@ -389,11 +369,6 @@ Changes in OctaviLauncher :
 Note : There are no UI changes because from yesterday's Poll people chose and supported us to move to minimal UI. And all the UI changes will be there in future updates.`
 
 
-
-
-
-
-
 ---
 
 ---
@@ -401,10 +376,6 @@ Note : There are no UI changes because from yesterday's Poll people chose and su
 ---
 
 ---
-
-
-
-
 
 
 # Changelog: 2.4
@@ -441,10 +412,6 @@ Dated : 07/05/2021
 Note : Octavi clock from last release and Octavi Lab from this release are publically available for unofficial builds.
 
 
-
-
-
-
 ---
 
 ---
@@ -452,11 +419,6 @@ Note : Octavi clock from last release and Octavi Lab from this release are publi
 ---
 
 ---
-
-
-
-
-
 
 
 # Changelog: 2.3
@@ -499,10 +461,6 @@ Source Changes:*
 * Added some translations in octavi lab
 
 
-
-
-
-
 ---
 
 ---
@@ -510,10 +468,6 @@ Source Changes:*
 ---
 
 ---
-
-
-
-
 
 
 # Changelog: 2.2
@@ -537,10 +491,6 @@ Source Changes:*
 * A bit of more optimization that doesn't matter to add in changelog but gonna improve the user experience while using the ROM itself
 
 
-
-
-
-
 ---
 
 ---
@@ -548,11 +498,6 @@ Source Changes:*
 ---
 
 ---
-
-
-
-
-
 
 
 # Changelog: 2.1
@@ -590,11 +535,6 @@ Source Changes:*
 * Added InCall Vibration Options
 
 
-
-
-
-
-
 ---
 
 ---
@@ -602,10 +542,6 @@ Source Changes:*
 ---
 
 ---
-
-
-
-
 
 
 # Changelog: 2.0
