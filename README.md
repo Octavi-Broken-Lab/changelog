@@ -231,6 +231,7 @@ Redesigned stuff :
 
 
 # Changelog: 2.7
+
 * Merged July Security patch (r39)
 * Updated Gapps to newest
 * Fixed an issue in calling with both aosp dialer and Googler dialer in different devices 
@@ -425,8 +426,7 @@ Note : Octavi clock from last release and Octavi Lab from this release are publi
 
 Dated : 24/04/2021
 
-Source Changes:*
-
+Source Changes:
 * OxygenOS 11 QS Footer layout is now added in octavi for better accessibility 
 * Added collapsebar in settings 
 * Rebased vendor with new implementations for better integration 
@@ -502,12 +502,9 @@ Source Changes:*
 
 # Changelog: 2.1
 
-OctaviOS  v2.1 Changelog:*
-
 Dated : 05/03/2021
 
-Source Changes:*
-
+Source Changes:
 * Merged March Security Patch
 * Added MIUI Type Headers In Settings
 * Added GVisual Mod
@@ -545,12 +542,10 @@ Source Changes:*
 
 
 # Changelog: 2.0
-OctaviOS  v2.0 Changelog:*
 
 Dated : 14/02/2021
 
-Source Changes:*
-
+Source Changes:
 * Merged February 2021 security patch 
 * Fixed That 24 Hours QS Clock Bug on Left Side
 * Fixed PowerOff Torch
