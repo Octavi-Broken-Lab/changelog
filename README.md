@@ -1,65 +1,118 @@
+# changelog 3.2
+
+* Merge r21 December patch
+* Redesigned QS (Thanks to @healer99)
+* Redesigned Settings 
+* Introduced UserInfo section
+* Added back Octavi dialer in both builds 
+* Adapted Octavi dialer as per Material You
+* Redesigned AOSP Messages app as per Material 3
+* Redesigned AOSP clock app as per Material 3
+* Redesigned AOSP Calculator as per Material You 
+* Introduced OTA Notafier
+* Added new icons for AOSP apps
+* Updated Pixel prop utils 
+* Updated Gapps to latest Pixel 6 Pro
+* Added Hell Lot of Fonts
+* Added Wifi/Signal Icons Style
+* Added IconPacks Support
+* Added EdgeLightning 
+* Added PocketLock
+* Added Volte/Vowifi User selectable Icons
+* Added LiveVolume Steps
+* Added Option to disable led after full charging
+* Added Option to cycle through ringer modes
+* Added Option to enable AOD on charging only
+* Added Optional Colored Statusbar icons
+* Added Landscape battery | Left Battery
+* Added Flipendo to battery saver tile
+* Added Support for scheduling Always on Display
+* Added Vibration patterns from OOS
+* Added a support to choose custom vibration patterns
+* Added Toggle to hide Navbar
+* Added Support to change the lenght of gesture navbar
+* Added Optional  haptic feedback on back gesture
+* Added Advanced Swipe Gestures
+* Added LiveDisplay Support
+* Added LiveDisplay/Readmode Tiles
+* Updated Default System Icons from Acherus theme
+* Updated Lawnchair Launcher
+
+Much more things that I forgot now
+
+
+---
+
+---
+
+---
+
+---
+
+
+
 # Changelog 3.1
 
 Miscellaneous changes:
-- Enable Smart battery
-- Allow disable of Screenshot sound
-- Enable 3 modes in Location QS tile
-- Redesigned Settings UI to A11 look alike
+* Enable Smart battery
+* Allow disable of Screenshot sound
+* Enable 3 modes in Location QS tile
+* Redesigned Settings UI to A11 look alike
 
 Fixes that are done:
-- Fix various required permission to default apps for better experience
-- Fix battery stats getting resetted on reboot
-- Various Lockscreen bottom shortcut fixes
-- Fixed some issues to SystemUI tuner
-- Fixed Lockscreen charging issues
-- Fixed ripple animations on side mounted FP devices
+* Fix various required permission to default apps for better experience
+* Fix battery stats getting resetted on reboot
+* Various Lockscreen bottom shortcut fixes
+* Fixed some issues to SystemUI tuner
+* Fixed Lockscreen charging issues
+* Fixed ripple animations on side mounted FP devices
 
 Newly added things:
-- Added Lawnchair as default launcher
-- Added Increasing ring feature
-- Added Octavi Lab
-- Added Reset battery stats button
-- Added Caffeine tile
-- Added AOD tile
-- Added USB tether tile
-- Added Sync tile
-- Added Sound tile
-- Added Screenshot tile
-- Added heads-up tile
-- Added Data switch tile
-- Added haptic feedback to QS tiles
-- Added animations on QS tiles
-- Added Interpolators to QS tiles
-- Added advance power menu toggle
-- Added Double tap 2 sleep on statusbar
-- Added Double tap 2 sleep on lockscreen
-- Added long press power to toggle torch
-- Added volume rocker wake
-- Added volume key music control
-- Added option to orient volume buttons in landscape
-- Added option to hide power menu on secured lockscreen
-- Added Heads-up customisations
-- Added less boring heads-up
-- Added Smart QS pull 
-- Added Statusbar clock/date customisations
-- Added toggle to enable/disable running services in QS
-- Added toggle for wake on plug
-- Added Incall vibrations
-- Added Traffic Indicator
-- Added Hardware key customisation support
-- Added Notification light customisations
-- Added lockscreen visualiser
-- Added brightness slider customisations
-- Added battery bar 
-- Added Carrier label customisations
-- Added navigation Gestures customisation
-- Added Double tap to wake on Doze
-- Added battery light customisations
-- Added navbar customisations
-- Add Dash/Warp/VOOC/SuperDart charging support
-- Added battery styles customisations
-- Added smartspace
-- Forward port CM settings
+* Added Lawnchair as default launcher
+* Added Increasing ring feature
+* Added Octavi Lab
+* Added Reset battery stats button
+* Added Caffeine tile
+* Added AOD tile
+* Added USB tether tile
+* Added Sync tile
+* Added Sound tile
+* Added Screenshot tile
+* Added heads*up tile
+* Added Data switch tile
+* Added haptic feedback to QS tiles
+* Added animations on QS tiles
+* Added Interpolators to QS tiles
+* Added advance power menu toggle
+* Added Double tap 2 sleep on statusbar
+* Added Double tap 2 sleep on lockscreen
+* Added long press power to toggle torch
+* Added volume rocker wake
+* Added volume key music control
+* Added option to orient volume buttons in landscape
+* Added option to hide power menu on secured lockscreen
+* Added Heads*up customisations
+* Added less boring heads*up
+* Added Smart QS pull 
+* Added Statusbar clock/date customisations
+* Added toggle to enable/disable running services in QS
+* Added toggle for wake on plug
+* Added Incall vibrations
+* Added Traffic Indicator
+* Added Hardware key customisation support
+* Added Notification light customisations
+* Added lockscreen visualiser
+* Added brightness slider customisations
+* Added battery bar 
+* Added Carrier label customisations
+* Added navigation Gestures customisation
+* Added Double tap to wake on Doze
+* Added battery light customisations
+* Added navbar customisations
+* Add Dash/Warp/VOOC/SuperDart charging support
+* Added battery styles customisations
+* Added smartspace
+* Forward port CM settings
 
 Note : There are much more changes than these are we don't remember so... Good luck finding them
 
