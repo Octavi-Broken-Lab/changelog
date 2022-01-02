@@ -1,18 +1,23 @@
 # changelog 3.2
 
+Bump:
 * Merge r21 December patch
+
+Miscellaneous changes:
 * Redesigned QS (Thanks to @healer99)
 * Redesigned Settings 
 * Introduced UserInfo section
-* Added back Octavi dialer in both builds 
 * Adapted Octavi dialer as per Material You
 * Redesigned AOSP Messages app as per Material 3
 * Redesigned AOSP clock app as per Material 3
 * Redesigned AOSP Calculator as per Material You 
 * Introduced OTA Notafier
-* Added new icons for AOSP apps
 * Updated Pixel prop utils 
 * Updated Gapps to latest Pixel 6 Pro
+
+Newly added things:
+* Added new icons for AOSP apps
+* Added back Octavi dialer in both builds 
 * Added Hell Lot of Fonts
 * Added Wifi/Signal Icons Style
 * Added IconPacks Support
@@ -35,10 +40,12 @@
 * Added Advanced Swipe Gestures
 * Added LiveDisplay Support
 * Added LiveDisplay/Readmode Tiles
+
+Updated:
 * Updated Default System Icons from Acherus theme
 * Updated Lawnchair Launcher
 
-Much more things that I forgot now
+`Much more things are added in 3.2 checkout`
 
 
 ---
