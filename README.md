@@ -45,7 +45,7 @@ Updated:
 * Updated Default System Icons from Acherus theme
 * Updated Lawnchair Launcher
 
-`Much more things are added in 3.2 checkout`
+Note: Features will be added from next release with Octavi Lab addon. Till then no spam for it.
 
 
 ---
