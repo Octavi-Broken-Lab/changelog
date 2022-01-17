@@ -1,3 +1,65 @@
+# changelog 3.3
+Bump:
+* Merge Jan patch
+
+Miscellaneous changes:
+* Bringup new AboutPhone UI
+* A few changes to QS design (more minimal now)
+* Fix statusbar color in Octavi Dialer
+* Improve monet implementation in Octavi Dialer
+* Make search bar more round in Dialer
+* Fixed the calling text issue while in call
+* Fix missing illustration of 3 finger SS
+* Try to keep Icon packs intact even after reboot
+* Make pop up menus more round
+* Fix dark theme coloring of panels
+* Use safe cast to avoid NPE
+* Disable useless dividers in Listviews
+* Disabled wakeup blur animation
+* Nuked unused resources from SystemUI
+* Use OOS icons in brightness slider
+* Fixed ripple animation in side FP devices
+* Add support for allowing / disallowing apps on cellular/VPN/wifi
+* Upstreamed NetworkPolicyManager stuff
+* Fix a NPE in BatteryMeterView
+* Upstreamed WiredAcessoryManager
+* Upstreamed gmscompact
+* Remove useless debugging flags
+* Mute an annoying error message from Lights service
+* Set scroll friction to 0.006f
+* Disable a lot of useless logspam from multiple utils/services
+* Address a few nullpointer exception crashes
+* Implement backup / restore for network policy 
+
+Newly added things:
+* Add a toggle to enable/disable battery estimate in QS
+* Added Wifi timeout
+* Add capability to allow Hotspot clients to use VPN
+* Added Bluetooth timeout
+* Added power menu transparency control
+* Added power menu animations
+* Added toggle for Charging animation
+* Fix a bootloop when no keyboard is found
+* Disabled Bluetooth on boot by default
+* Added pulse edge light for doze triggers
+* Disabled rotation on Lockscreen
+* Added UDFPS customisations (icons & animations)
+* Make landscape batter a bit smaller 
+* Fix black QQS on Lockscreen
+* Fix a QS crash when not using media player
+* Improved privacy indicators
+
+
+---
+
+---
+
+---
+
+---
+
+
+
 # changelog 3.2
 
 Bump:
