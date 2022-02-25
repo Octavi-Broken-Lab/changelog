@@ -1,3 +1,51 @@
+# changelog 3.4
+
+Bump:
+* Merged Feb Security patch
+
+Miscellaneous changes:
+* Updated pixel props to latest release
+* Switched to Pixel launcher / Launcher 3 for Gapps / Vanilla (respectively)
+* Redesigned Settings and About phone with new Look
+* Introduced new icon pack for Octavi aosp apps
+* Re*implemented Network meter with OOS style
+* Fixed Glitchy charging info on lockscreen
+* Fix pill getting invisible in gesture mode
+* Fix a Google search crash due to a permission issue
+* Re*implemented backgesture and Smartspace providers
+* Fixed a few glitches/issues in AOSP icon packs
+* Fix Microsoft apps crashing due to no internet permission
+* Improvements in Sound tile and Screenshot tile
+* Replaced staturbar icon of ADB notification with USB icon
+* Fixed brightness slider on some devices
+* Tweaked Settings collapsed header for better look
+* Fixed edit button in screenshot share activity
+* Fixed missing Internet permission
+
+Newly added things:
+* Added Pixel launcher mod from TeamFiles along with 1000s of themed icons by them
+* Adapted Octavi Apps for themed icons
+* Added Alert slider support
+* Added Game mode (Google one)
+* Added Quick tap
+* Added 12L internet and screen record dialog from Radiant 
+* Added A13 like Media output picker 
+* Added a toast on deleting screenshot
+* Added App lock from AOSP*Krypton (only user apps)
+* Added Expanded volume panel
+* Added Pitch black theme 
+
+
+---
+
+---
+
+---
+
+---
+
+
+
 # changelog 3.3
 
 Bump:
